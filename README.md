@@ -58,5 +58,3 @@ All cases follow a **consistent reporting format**:
 
 ---
 
-## Repository Structure
-
